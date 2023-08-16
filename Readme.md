@@ -18,3 +18,6 @@
 <div align=center>
 <img src="model.jpg"><br>模型结构图
 </div>
+<br>
+
+**所用数据来自于TCGA数据库，已经过预处理的初步特征对齐**
